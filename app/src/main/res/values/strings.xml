@@ -4,6 +4,10 @@
     <string name="saludo_segundo_fragmento">Segundo Fragmento</string>
     <string name="saludo_tercer_fragmento">Tercer Fragmento</string>
     <string name="saludo_cuarto_fragmento">Cuarto Fragmento</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_name2">Clase01_Periodo03</string>
+    <string name="fragmento1">Primer 1</string>
+    <string name="fragmento2">Segundo 2</string>
+    <string name="fragmento3">Tercer 3</string>
+    <string name="fragmento4">Cuarto 4</string>
 </resources>
